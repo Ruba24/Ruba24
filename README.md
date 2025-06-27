@@ -10,7 +10,7 @@ I conjure seamless user experiences with React.js, craft portals with Next.js, a
 - 📫 Reach me at **rubaqazi2000@gmail.com**
 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Muhammad+Aziz;Web+Developer;MERN+Engineer;SQA+Engineer;%40ruba24">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Ruba+Qazi;Web+Developer;MERN+Engineer;SQA+Engineer;%40ruba24">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" allowFullScreen></img></p>
