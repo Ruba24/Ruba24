@@ -101,7 +101,7 @@ I conjure seamless user experiences with React.js, craft portals with Next.js, a
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/r_u_b_a_q_a_z_i" target="_blank">
 <img src="https://img.shields.io/badge/ruba24-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://https://www.linkedin.com/in/ruba-tabassum-a067151b8/" target="_blank">
+<a href="https://www.linkedin.com/in/ruba-tabassum-a067151b8//" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 
 </p>
