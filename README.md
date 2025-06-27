@@ -3,7 +3,7 @@
 
 <div>
 
-- 🌱 I’m currently working as a **MERN Engineer** at [DynamoLogic Solutions](https://www.dynamologic.com/)
+- 🌱 I’m currently working as a **SQA Engineer** at [DynamoLogic Solutions](https://www.dynamologic.com/)
 
 - 🤪 "I'm a JavaScript whiz, fluent in 'console.log' and sporting a black belt in debugging! Plus, I weave magic in UI development. Evolving from a mechanical engineer to a coding sorcerer, I wield the power of React.js, Next.js, and Node.js to create digital wonders." 😄 
 - 📫 Reach me at **rubaqazi2000@gmail.com**
