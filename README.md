@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently working as a **SQA Engineer** at [DynamoLogic Solutions](https://www.dynamologic.com/)
 
-- 🤪 "I'm a JavaScript whiz, fluent in 'console.log' and sporting a black belt in debugging! Plus, I weave magic in UI development. Evolving from a mechanical engineer to a coding sorcerer, I wield the power of React.js, Next.js, and Node.js to create digital wonders." 😄 
+- 🤪 Once a vigilant SQA Engineer, now a full-stack spellcaster!
+I conjure seamless user experiences with React.js, craft portals with Next.js, and command the server realm using Node.js. Fluent in console.log(), fearless with bugs, and always building something magical — I bring imagination to code and pixels to life 😄 
 - 📫 Reach me at **rubaqazi2000@gmail.com**
 
 <p align='center'>
@@ -80,6 +81,7 @@
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Codespaces-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 
@@ -99,7 +101,7 @@
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/r_u_b_a_q_a_z_i" target="_blank">
 <img src="https://img.shields.io/badge/ruba24-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/zeezeee96" target="_blank">
+<a href="https://https://www.linkedin.com/in/ruba-tabassum-a067151b8/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 
 </p>
@@ -123,6 +125,7 @@
 
 <p align='center'>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 
@@ -132,6 +135,7 @@
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" allowFullScreen></img></p>
 <p align='center'>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 <hr>
 <br>
