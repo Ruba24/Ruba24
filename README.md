@@ -153,4 +153,4 @@ I conjure seamless user experiences with React.js, craft portals with Next.js, a
 ------
 Credit : [Ruba Qazi](https://github.com/ruba24)
 
-Last Edited on: 02 February 2024
+Last Edited on: 28 June 2025
